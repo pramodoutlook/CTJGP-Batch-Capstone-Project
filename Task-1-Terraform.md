@@ -1,5 +1,5 @@
 
-## Step 1: Terraform Workstation Setup
+## Task 1: Terraform Workstation Setup
 
 ### Objective
 Prepare a Terraform workstation to provision cloud infrastructure on AWS.
