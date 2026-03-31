@@ -34,7 +34,11 @@ RUN pip install -r requirements.txt
 COPY . .
 CMD [ "python", "app.py" ]
 ```
-
+Create application directory:
+```
+mkdir code && cd code
+```
+```
 vi app.py
 ```
 Add the given content, by pressing `INSERT`
